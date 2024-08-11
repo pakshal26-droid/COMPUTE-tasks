@@ -1,0 +1,18 @@
+
+.design-image-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.image-item , .img-card{
+    width:270px;
+    margin: 10px 5px 0px 10px;
+}
+.design-header h1{
+    text-align: center;
+    font-size: 35px;
+    margin:30px 0px 10px 40px;
+   
+}

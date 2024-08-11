@@ -1,0 +1,25 @@
+.projects{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.project-head h1{
+    text-align: center;
+    margin: 30px;
+    font-size: 35px;
+} 
+.cards-section{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.card{
+    margin: 10px;
+}
+.text2,.project_link{
+    font-size: 15px;
+}
